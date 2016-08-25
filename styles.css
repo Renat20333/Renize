@@ -21,7 +21,7 @@ html, body {
 /* №2 шапка */
 #header_logo{
 	width: 75px;
-	margin: 50px 0px 0 0;
+	margin: 50px 0 0 0;
 }
 
 header{
@@ -31,7 +31,7 @@ header{
 
 .header_logo_text{
 	font-size: 24px;
-	color: #b2ff1b;
+	color: orange;
 }
 
 nav{
@@ -106,7 +106,7 @@ footer {
 	float: right;
 	width: 255px;
 	height: 250px;
-	margin: 40px 40px 0px 0px;
+	margin: 40px 40px 0 0;
 	color: darkgray;
 	font-size: 30px;
 }
@@ -118,7 +118,7 @@ footer {
 }
 
 .footer_div .h3{
-	margin: 20px 0px;
+	margin: 20px 0;
 }
 
 /* Кнопка вверх */

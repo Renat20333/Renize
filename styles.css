@@ -30,9 +30,8 @@ header{
 }
 
 .header_logo_text{
-	color: red;
 	font-size: 24px;
-	color: orange;
+	color: #b2ff1b;
 }
 
 nav{
@@ -67,7 +66,7 @@ nav a:hover {
 	border-width: 0 0 2px 0;
 	color: black;
 }
-
+/*
 .form_search{
 	position: absolute;
 	top: 64px;
@@ -84,7 +83,7 @@ nav a:hover {
 	width: 44px;
 	background-image: url(img/web_search.png);
 }
-
+*/
 .slogan{
 	position: absolute;
 	top: 220px;

@@ -7,9 +7,9 @@
 		<li><a href="#">Пункт меню</a></li>
 		</ul>
 	</nav>
-	<form class="form_search">
+	<!-- форма поиска <form class="form_search">
 	<input class="search_btn" type="submit" name="submit" value=" ">
 	<input class="search" type="text" title="search">
-	</form>
+	</form> -->
 	<h2 class="slogan">Сайт в разработке.</h2>
 </header>
